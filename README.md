@@ -14,3 +14,6 @@
 
 ## validationについては
 - zod を使っているつもりです。
+
+
+※　UI FrontEnd is OKay. (問題なく表示されています。）
