@@ -17,3 +17,12 @@
 
 
 ※　UI FrontEnd is OKay. (問題なく表示されています。）
+
+# テスト
+- UI test
+- pytest 
+
+
+### BE API について
+
+- django Rest-frameworkを利用する
