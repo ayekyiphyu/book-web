@@ -1,9 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // enables static export
+  output: 'export',
   basePath: '/book-web',
-  assetPrefix: '/book-web/',
-  trailingSlash: true, // recommended for GitHub Pages
+  assetPrefix: '/book-web',
 };
 
 export default nextConfig;
