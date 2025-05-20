@@ -1,6 +1,7 @@
 {
   "name": "book-web",
   "version": "0.1.0",
+  "homepage": "https://ayekyiphyu.github.io/book-web",
   "private": true,
   "scripts": {
     "dev": "next dev",
